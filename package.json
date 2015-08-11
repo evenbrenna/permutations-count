@@ -1,0 +1,36 @@
+{
+  "name": "permutations-count",
+  "version": "0.1.0",
+  "description": "Calculate the number of possible permutations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evenbrenna/permutations-count"
+  },
+  "keywords": [
+    "combinatorics",
+    "permutations",
+    "permutation",
+    "unique",
+    "combinations",
+    "combination"
+  ],
+  "author": {
+    "name": "Even Brenna",
+    "email": "evenbrenna@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evenbrenna/permutations-count/issues"
+  },
+  "homepage": "https://github.com/evenbrenna/permutations-count",
+  "dependencies": {
+    "factorial": "0.0.2"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
