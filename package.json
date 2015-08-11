@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/evenbrenna/permutations-count",
   "dependencies": {
-    "factorial": "0.0.2"
+    "big-factorial": "^1.0.2"
   },
   "devDependencies": {
     "ava": "0.0.4"
